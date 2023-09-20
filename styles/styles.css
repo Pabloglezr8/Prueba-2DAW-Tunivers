@@ -1,0 +1,13 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+}
+a{
+    align-items: center;
+    font-size: x-large;
+    color: #48a080;
+}
+
+p{
+    background: rgb(242, 183, 110);
+}

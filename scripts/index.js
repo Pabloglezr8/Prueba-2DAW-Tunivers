@@ -6,7 +6,7 @@ const generateRandomColor = () => {
 
 const changeBackgroundColor= () => {
     const newColor = generateRandomColor();
-    document.body.style.backgroundColor = newColor;
+    document.body.style.backgroundColor= newColor;
 }
 
 // Agregas un evento al boton changeColorBtn

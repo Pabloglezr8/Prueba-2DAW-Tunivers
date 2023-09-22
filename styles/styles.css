@@ -1,12 +1,33 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: bisque;
-}
-a{
-    font-size: x-large;
-    color: #48a080;
+    background: bisque;
 }
 
 p{
-    background: rgb(242, 183, 110);
+    background-image: linear-gradient(45deg, rgb(252, 174, 78), bisque);
+}
+
+video{
+    border:solid;
+    border-width: 0.5cm;
+    border-color:lightgreen;
+}
+
+button{
+ background: none;
+ border: none;
+ cursor:pointer;
+}
+.navegador{
+    text-align: center;
+    margin-left: 5%;
+    margin-bottom: 20px;
+}
+.navegador a {
+    text-decoration: double;
+    background-color: #48a080;
+    padding: 4px;
+    margin: 10px;
+    color: white;
+    border-radius: 5px;
 }

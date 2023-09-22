@@ -31,3 +31,13 @@ button{
     color: white;
     border-radius: 5px;
 }
+
+h4{
+    writing-mode: vertical-rl;
+}
+
+.elpatacas{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
